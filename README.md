@@ -17,4 +17,7 @@ exibida. As frases podem ser
 armazenadas localmente ou
 carregadas de uma API.
 
+![image](https://github.com/user-attachments/assets/8b12f653-804f-4e75-b452-dc0d2a7bb7b4)
+![image](https://github.com/user-attachments/assets/c2c1ba11-6826-4e6c-b045-b706cf406113)
+
 
